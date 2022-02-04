@@ -219,7 +219,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "sample"
+name = "sampler"
 version = "0.1.0"
 dependencies = [
  "clap",
